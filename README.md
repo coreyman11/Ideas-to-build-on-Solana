@@ -2,7 +2,7 @@
 
 # Ideas of what  to build on Solana🥷
 
---Build a calendy type decentralized type website?
+-Build a calendy type decentralized type website?
 
 -Deployment/monitoring pipeline for live bots that supply liquidity on centralized exchanges
 

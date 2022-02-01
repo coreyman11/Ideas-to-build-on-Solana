@@ -2,6 +2,8 @@
 
 # Ideas of what  to build on Solana🥷
 
+--Build a calendy type decentralized type website?
+
 -Deployment/monitoring pipeline for live bots that supply liquidity on centralized exchanges
 
 -Proprietary SDKs to interact with crypto exchanges in a resilient way, shaving latency when possible
@@ -10,7 +12,7 @@
 
 -Market data archivers
 
--Arbitrage bots
+-Arbitrage bots, trianlge style arb bots? Ones that actually trade?
 
 -Smart-contracts that bundle on-chain actions into a single atomic call triggered by a fleet of off-chain bots
 

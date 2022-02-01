@@ -1,6 +1,12 @@
+# Feel free to add whatever you youd like through a PR and/or lets build some shit together
+
+Coreystevens.xyz
+
 # Ideas-to-build-on-Solana🧐
 
 # Ideas of what  to build on Solana🥷
+
+--Arbitrage bots, trianlge style arb bots? Ones that actually trade?
 
 -Build a calendy type decentralized type website?
 
@@ -12,10 +18,7 @@
 
 -Market data archivers
 
--Arbitrage bots, trianlge style arb bots? Ones that actually trade?
-
 -Smart-contracts that bundle on-chain actions into a single atomic call triggered by a fleet of off-chain bots
-
 
 
 

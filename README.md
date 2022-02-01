@@ -1,4 +1,19 @@
-# Ideas-to-build-on-Solana
+# Ideas-to-build-on-Solana🧐
+
+# Ideas of what  to build on Solana🥷
+
+-Deployment/monitoring pipeline for live bots that supply liquidity on centralized exchanges
+
+-Proprietary SDKs to interact with crypto exchanges in a resilient way, shaving latency when possible
+
+-Stream processing architecture to compute parameters that our live models need
+
+-Market data archivers
+
+-Arbitrage bots
+
+-Smart-contracts that bundle on-chain actions into a single atomic call triggered by a fleet of off-chain bots
+
 
 
 
@@ -17,15 +32,5 @@
 
 -How to set up an anchor environment and get started with the Anchor Helloworld task?
 
--Deployment/monitoring pipeline for live bots that supply liquidity on centralized exchanges
 
--Proprietary SDKs to interact with crypto exchanges in a resilient way, shaving latency when possible
-
--Stream processing architecture to compute parameters that our live models need
-
--Market data archivers
-
--Arbitrage bots
-
--Smart-contracts that bundle on-chain actions into a single atomic call triggered by a fleet of off-chain bots
 

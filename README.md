@@ -1,6 +1,7 @@
 # Feel free to add whatever you youd like through a PR and/or lets build some shit together
 
-Coreystevens.xyz
+
+
 
 # Ideas-to-build-on-Solana🧐
 

@@ -1,5 +1,4 @@
-# Feel free to add whatever you youd like through a PR and/or lets build some shit together
-
+# Feel free to add whatever you'd like through a PR and lets build shit together!!🏗
 
 
 

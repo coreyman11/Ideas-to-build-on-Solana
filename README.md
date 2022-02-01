@@ -2,9 +2,8 @@
 
 
 
-# Ideas-to-build-on-Solana🧐
+# Ideas-to-build-on-Solana🥷
 
-# Ideas of what  to build on Solana🥷
 
 --Arbitrage bots, trianlge style arb bots? Ones that actually trade?
 
@@ -22,7 +21,7 @@
 
 
 
-# Tutorial Ideas/Blog ideas!🎼
+# Tutorial Ideas/Blog ideas!🧐
 
 
 -How and what is a dApp Scaffold on Solana?

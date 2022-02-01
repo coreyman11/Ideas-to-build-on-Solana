@@ -19,7 +19,7 @@
 
 
 
-# Tutorial Ideas/Blog ideas!
+# Tutorial Ideas/Blog ideas!🎼
 
 
 -How and what is a dApp Scaffold on Solana?

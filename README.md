@@ -44,7 +44,13 @@
 
 - Local Stablecoins
 
--Some sort of Arbirtage bot?
+- More intricate POS with acounting software to track 
+
+- Some sort of Arbirtage bot?
+
+- Streaming app
+
+
 
 
 

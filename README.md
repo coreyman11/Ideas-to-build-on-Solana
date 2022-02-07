@@ -5,7 +5,7 @@
 # Ideas-to-build-on-Solana🥷
 
 
---Arbitrage bots, trianlge style arb bots? Ones that actually trade?
+-Arbitrage bots, trianlge style arb bots? Ones that actually trade?
 
 -Build a calendy type decentralized type website?
 
@@ -40,7 +40,11 @@
 
 # Hackathon Ideas
 
-- Build a Moonpay type app for Solana?
+- Build a Moonpay type app for Solana
+
+- Local Stablecoins
+
+-Some sort of Arbirtage bot?
 
 
 

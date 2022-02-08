@@ -52,6 +52,7 @@
 
 - Inverse Coins?
 
+- Decentralized OpenTable and integrate NFTS?
 
 
 

@@ -40,7 +40,7 @@
 
 # Hackathon Ideas
 
-- Build a Moonpay type app for Solana
+- Build a Moonpay type app for Solana: Moonpay has high "processing" fees and high tx fees depending on the chain. Can we somehow build a better,cheaper, and faster service? Moonpay is also slow as shit.
 
 - Local Stablecoins
 

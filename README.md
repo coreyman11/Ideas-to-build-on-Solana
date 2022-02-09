@@ -54,6 +54,7 @@
 
 - Decentralized OpenTable and integrate NFTS?
 
+- Wallet with more integration? (like phantom)
 
 
 
